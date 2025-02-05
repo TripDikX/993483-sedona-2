@@ -2,6 +2,7 @@
 
 * Студент: [Сергей Безруков](https://up.htmlacademy.ru/htmlcss-individual/2/user/993483).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Сайт: [Мой проект Седона](https://tripdikx.github.io/993483-sedona-2/).
 
 ---
 
